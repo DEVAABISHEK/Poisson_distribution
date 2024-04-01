@@ -1,3 +1,5 @@
+                                                               NAME : DEVA ABISHEK P
+                                                               REG. NO: 212223110008
 # Fitting Poisson  distribution
 # Aim : 
 
